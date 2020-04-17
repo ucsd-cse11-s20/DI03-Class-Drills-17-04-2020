@@ -19,7 +19,7 @@ But what if we wanted to check if two things are _not_ equal? For integers, we s
 ```java
 1 != 2 // evaluates to true
 ```
-But how about Strings? There is no `notEqual()` method on Strings, but we don't need that! Similar to the integer operator we saw above, there is a boolean operator that "negates" a boolean: The _not_ operator `!`
+But how about Strings? There is no `notEquals()` method on Strings, but we don't need that! Similar to the integer operator we saw above, there is a boolean operator that "negates" a boolean: The _not_ operator `!`
 ```java
 !true // evaluates to false
 !false // evaluates to true
