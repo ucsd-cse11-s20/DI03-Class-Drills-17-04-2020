@@ -60,6 +60,7 @@ Today we will learn about another very useful String method:
 
 ```java
 // Returns `true` if the given parameter appears in the String
+// e.g. "CSE11".contains("CSE")
 boolean contains(String toFind) { ... }
 ```
 
