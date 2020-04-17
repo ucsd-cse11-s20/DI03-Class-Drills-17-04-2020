@@ -92,6 +92,8 @@ Add a method named `checkPassword` to the `SignUpForm` class. It must check that
 
 If the `password` matches these requirements, it should return `"Ok"`, otherwise it should return a String containing the requirement it does not match. This method accepts no parameters.
 
+(Hint: Use the methods we wrote in the subproblems 1 and 2)
+
 ## Problem 4:
 Write a class named `ExampleForms`. In that class, create at least 3 instances of the `SignUpForm` class. Then test your `checkUsername` and `checkPassword` methods by calling them on the objects you created. 
 
