@@ -2,6 +2,9 @@ Zoom link: https://ucsd.zoom.us/j/870346269
 
 Zoom recording: COMING SOON
 
+Problem sheet for this discussion:
+https://github.com/ucsd-cse11-s20/DI03-Class-Drills-17-04-2020/blob/master/ProblemSheet.md
+
 Readings reviewd in this discussion:
 - [Programming, With Class](https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture5.html)
 - [Programming, Objectively](https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture6.html)
